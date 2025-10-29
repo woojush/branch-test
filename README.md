@@ -1,2 +1,2 @@
 # branch-test
-hotfix example
+## practicing git branching and merging
