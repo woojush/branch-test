@@ -1,1 +1,7 @@
-edition file contents
+first edition
+second edition
+third edition
+issue resolved
+Hotfix team's solutin
+New function added
+Team upgraded
